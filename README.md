@@ -10,7 +10,7 @@ Idea list for GDG Sri Lanka Android Jam
 
 
 Developers
-  * Pasindu De Silva
+  * [Pasindu De Silva](https://github.com/pasindud)
 
 A android application for threewheel drivers.
 
